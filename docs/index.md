@@ -1,17 +1,14 @@
-# Welcome to MkDocs
+# Welcome to the test page
 
-For full documentation visit [mkdocs.org](https://www.mkdocs.org).
+This page is just a test, nothing to see here!
 
-## Commands
+## Look at some code blocks
 
-* `mkdocs new [dir-name]` - Create a new project.
-* `mkdocs serve` - Start the live-reloading docs server.
-* `mkdocs build` - Build the documentation site.
-* `mkdocs -h` - Print help message and exit.
+```python
+import numpy as np
 
-## Project layout
+A = np.zeros(100)
+```
 
-    mkdocs.yml    # The configuration file.
-    docs/
-        index.md  # The documentation homepage.
-        ...       # Other markdown pages, images and other files.
+## Look at a goose
+
