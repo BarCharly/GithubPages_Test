@@ -15,4 +15,5 @@ A = np.zeros(100)
 ![goose](assets/goose.jpg)
 
 !!! note
+
    His name is Ronald
