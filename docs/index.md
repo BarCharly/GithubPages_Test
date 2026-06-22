@@ -12,3 +12,4 @@ A = np.zeros(100)
 
 ## Look at a goose
 
+![goose](assets/goose.jpg)
