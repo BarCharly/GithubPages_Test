@@ -33,15 +33,15 @@ In your newly created repository, complete the following:
 
 1. Give GitHub Actions Read and write permissions on this repo
 
-    - Settings -> Actions -> General -> Workflow Permissions
+> Settings -> Actions -> General -> Workflow Permissions
 
 1. Enable GitHub Pages
 
-    - Settings -> Pages -> Build & Deployment -> Source -> GitHub Actions
+> Settings -> Pages -> Build & Deployment -> Source -> GitHub Actions
 
 1. Make a change
 
-    - Click on `mkdocs.yml` -> Edit this file -> `site_name:` -> (replace with your website name)
+> Click on `mkdocs.yml` -> Edit this file -> `site_name:` -> (replace with your website name)
 
 <!-- More headings. Make What's Included and Checklist level 3 headings. -->
 
